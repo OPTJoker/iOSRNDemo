@@ -1,0 +1,6 @@
+framework module RNDebug {
+  umbrella header "RNDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}
